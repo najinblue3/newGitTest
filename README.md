@@ -1,1 +1,2 @@
 # newGitTest
+new changes added
